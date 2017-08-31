@@ -1,0 +1,178 @@
+{"categories": [
+    {"id": 3, "name": "Misc", "short_name": "Misc", "tasks": [
+        {
+        "id": 0, 
+        "row": 0,
+        "name": "The misc test_1", 
+        "score": "50",
+        "flag": "flag{test_misc_1}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_misc_1}",
+        "file": "misc50.zip"
+        },
+        {
+        "id": 10, 
+        "row": 1,
+        "name": "The misc test_2",
+        "score": "60",
+        "flag": "flag{test_misc_2}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_misc_2}",
+        "file": "misc60.zip"
+        },
+        {
+        "id": 20, 
+        "row": 2,
+        "name": "The misc test_3",
+        "score": "70",
+        "flag": "flag{test_misc_3}",
+        "desc": "这是关卡的描述. 测试关卡, the flag is flag{test_misc_3}",
+        "file": "misc70.zip"
+        }
+    ]},
+    {"id": 1, "name": "Web", "short_name": "Web", "tasks": [
+        {
+        "id": 11, 
+        "row": 0,
+        "name": "The web test_1",
+        "score": "50",
+        "flag": "flag{test_web_1}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_web_1} ",
+        "file": "web50.zip",
+        "service": "https://www.w2n1ck.com/"
+        },
+        {
+        "id": 12, 
+        "row": 1,
+        "name": "The web test_2",
+        "score": "60",
+        "flag": "flag{test_web_2}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_web_2}",
+        "service": "https://byd.dropsec.xyz/"
+        },
+        {
+        "id": 13, 
+        "row": 2,
+        "name": "The web test_3",
+        "score": "70",
+        "flag": "flag{test_web_3}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_web_3}",
+        "service": "https://www.baidu.com/?id=1/"
+        },
+        {
+        "id": 14, 
+        "row": 3,
+        "name": "The web test_4",
+        "score": "80",
+        "flag": "flag{test_web_4}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_web_4}",
+        "service": "https://www.baidu.com/?id=1&id=2/"
+        },
+        {
+        "id": 15, 
+        "row": 4,
+        "name": "The web test_5",
+        "score": "90",
+        "flag": "flag{test_web_5}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{test_web_5}",
+        "service": "https://byd.dropsec.xyz/"
+        }
+    ]},
+    {"id": 2, "name": "Reversing", "short_name": "Rev", "tasks": [
+        {
+        "id": 21, 
+        "row": 0,
+        "name": "中文测试1",
+        "score": "50",
+        "flag": "flag{test_reversing_1}",
+        "desc": "这是关卡的描述. 测试关卡,This is a description of the problem. The Subject test, the flag is flag{test_reversing_1}",
+        "file": "rev50.zip"
+        },
+        {
+        "id": 22, 
+        "row": 1,
+        "name": "中文测试2",
+        "score": "60",
+        "flag": "flag{test_reversing_2}",
+        "desc": "这是关卡的描述. 测试关卡,This is a description of the problem. The Subject test, the flag is flag{test_reversing_2}",
+        "file": "rev60.zip"
+        },
+        {
+        "id": 23, 
+        "row": 2,
+        "name": "中文测试3",
+        "score": "70",
+        "flag": "flag{test_reversing_3}",
+        "desc": "这是关卡的描述. 测试关卡,This is a description of the problem. The Subject test, the flag is flag{test_reversing_3}",
+        "file": "rev70.zip"
+        },
+        {
+        "id": 24, 
+        "row": 3,
+        "name": "中文测试4",
+        "score": "80",
+        "flag": "flag{test_reversing_4}",
+        "desc": "这是关卡的描述. 测试关卡,This is a description of the problem. The Subject test, the flag is flag{test_reversing_4}",
+        "file": "rev80.zip"
+        },
+        {
+        "id": 25, 
+        "row": 4,
+        "name": "中文测试5",
+        "score": "90",
+        "flag": "flag{test_reversing_5}",
+        "desc": "这是关卡的描述. 测试关卡,This is a description of the problem. The Subject test, the flag is flag{test_reversing_5}",
+        "file": "rev90.zip"
+        }
+    ]},
+    {"id": 4, "name": "Crypto", "short_name": "Crypto", "tasks": [
+        {
+        "id": 41, 
+        "row": 0,
+        "name": "The Crypto test_1",
+        "score": "50",
+        "flag": "flag{crypto_test_1}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{crypto_test_1}",
+        "file": "crypto50.zip"
+        },
+        {
+        "id": 42, 
+        "row": 1,
+        "name": "The Crypto test_2",
+        "score": "60",
+        "flag": "flag{crypto_test_2}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{crypto_test_2}",
+        "file": "crypto60.zip"
+        }
+    ]},
+    {"id": 5, "name": "Test", "short_name": "Test", "tasks": [
+        {
+        "id": 51, 
+        "row": 0,
+        "name": "Other Test !",
+        "score": "50",
+        "flag": "flag{other_test_1*^)_123}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{other_test_1*^)_123}",
+        "service": "https://byd.dropsec.xyz/"
+        }
+    ]},
+    {"id": 6, "name": "Pwn", "short_name": "Pwn", "tasks": [
+        {
+        "id": 61,
+        "row": 3,
+        "name": "Pwn_Test_1",
+        "score": "80",
+        "flag": "flag{Pwn_Test_1}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{Pwn_Test_1}",
+        "file": "exp80.zip",
+        "service": "https://byd.dropsec.xyz/"
+        },
+        {
+        "id": 62,
+        "row": 4,
+        "name": "Pwn_Test_2",
+        "score": "90",
+        "flag": "flag{Pwn_Test_2!}",
+        "desc": "This is a description of the problem. The Subject test, the flag is flag{Pwn_Test_2!}",
+        "service": "https://byd.dropsec.xyz/"
+        }
+    ]}
+]}

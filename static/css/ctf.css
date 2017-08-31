@@ -1,0 +1,131 @@
+body {
+  background: transparent;
+}
+
+/*
+ * Some bootstrap overrides
+ */
+
+.full {
+background: url('../img/background.jpg') no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.table > thead > tr > th {
+   background-color: rgba(0, 0, 0, 0.5); 
+   color: #eee;
+}
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: rgba(255, 255, 255, 0.75);
+}
+.table-striped > tbody > tr:nth-child(2n) > td, .table-striped > tbody > tr:nth-child(2n) > th {
+   background-color: rgba(255, 255, 255, 0.5);
+}
+.navbar-fixed-bottom {
+    height: 40px !important;
+    padding-top: 12px;
+    text-align: center;
+    background-color: rgba(56, 56, 56, 0.75);
+}
+.navbar-fixed-bottom a {
+    color: #F0F0F0;
+    text-align: center;
+}
+
+/*
+ * Landing page
+ */
+
+.landing-page {
+    padding-top: 150px;
+}
+
+.landing-page h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+/*
+ * Main circle
+ */
+
+.circle {
+    margin: 0;
+    width:600px;
+    height:300px;
+    padding-top: 50px;
+    border-radius:25px;
+    text-align:center;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+
+.circle-inner {
+
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 14pt;
+}
+
+.white {
+    color: #ddd; /* I lied */
+    padding-top: 8px;
+}
+
+/*
+ * Tasks page
+ */
+
+.chall-box {
+    margin: 20px;
+    width: 120px;
+    height: 120px;
+    padding-top: 45px;
+    border-radius: 50%;
+    text-align:center;
+    background-color: rgba(200, 200, 200, 0.75);
+    font-size: 16pt;
+    color: #333;
+}
+
+.chall-category {
+    background-color: rgba(40, 40, 40, 0.8);
+    color: white;
+}
+
+.chall-done {
+    -webkit-box-shadow: 0 0 10px 5px #008800;
+    box-shadow: 0 0 10px 5px #008800;
+}
+
+.chall-highlight {
+    -webkit-box-shadow: 0 0 10px 5px #0088CC;
+    box-shadow: 0 0 10px 5px #0088CC;
+}
+
+.chall-hidden {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+/*
+ * Individual tasks
+ */
+
+.task-box {
+    background-color: rgba(255, 255, 255, 0.75);
+    padding-bottom: 20px;
+    width: 600px;
+}
+
+.task-box input {
+    margin-bottom: 8px;
+}
+
+.task-box h1 {
+    padding-bottom: 0px;
+}
+
+.task-box h5 {
+    text-align: center;
+}

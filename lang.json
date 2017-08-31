@@ -1,0 +1,54 @@
+{
+    "chinese": {
+        "frame": {
+            "title": "ASCTF训练平台",
+            "toggle": "导航切换",
+            "login": "登陆",
+            "register": "注册",
+            "logged_in": "用户",
+            "logout": "注销"
+        },
+        "main": {
+            "title": "ASCTF测试平台!",
+            "text": "联系我们：admin@w2n1ck.com</br></br>have a good time!"
+        },
+        "about": {
+            "title": "关于",
+            "news": "公告",
+            "news_text": "平台目前没有做任何安全相关的措施，请不要对平台做任何攻击行为!",
+            "rules": "比赛规则",
+            "rules_text": "拿到每个题目的flag，即可得分!"
+        },
+        "tasks": {
+            "title": "关卡"
+        },
+        "task": {
+            "description": "题目描述",
+            "attachment": "传送门",
+            "submit": "提交",
+            "success": "恭喜，回答正确!",
+            "failure": "抱歉，回答错误!",
+            "solution_format": "%d 已解答",
+            "no_description": "(none)",
+            "placeholder": "flag{}",
+            "service":"地址"
+        },
+        "scoreboard": {
+            "title": "积分榜",
+            "player": "用户",
+            "score": "积分"
+        },
+        "error": {
+            "title": "出错啦~",
+            "unknown": "未知错误!",
+            "loginRequired": "您没有权限查看该页面，请登陆后查看!",
+            "invalidCredentials": "用户名、密码错误!",
+            "alreadyRegistered": "用户已存在，请使用其他用户名!",
+            "emptyUser": "用户名为空!",
+            "taskNotFound": "未找到此题目!",
+            "username_or_password_unavailable":"用户名,密码不合法!",
+            "only_during_ctf":"不在比赛时间!",
+            "ctf_over":"比赛已结束!"
+        }
+    }
+}

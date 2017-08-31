@@ -1,0 +1,16 @@
+{
+    "secret_key": "w2n1ck_ASCTF_12(/sbjqn@msy&qi1873m3j.",
+    
+    "host": "0.0.0.0",
+    "port": 8080,
+    
+    "db": "mysql://root:abcABC123.@localhost/ctf?charset=utf8",
+    
+    "language_file": "lang.json",
+    "language": "chinese",
+
+    "debug": false,
+
+    "start": 1502845200,
+    "stop": 1534770000
+}
