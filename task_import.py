@@ -33,7 +33,7 @@ if __name__ == '__main__':
     # print tasks_json
 
     # 连接数据库
-    db = dataset.connect('mysql://root:abcABC123.@192.168.2.8/ctf?charset=utf8')
+    db = dataset.connect('mysql://root:123456@192.168.2.8/ctf?charset=utf8')
     # db = dataset.connect('sqlite:///ctf.db')
     # mysql://username:password@10.10.10.10/onlinedb?charset=utf8'
 
