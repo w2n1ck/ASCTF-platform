@@ -4,7 +4,7 @@
     "host": "0.0.0.0",
     "port": 8080,
     
-    "db": "mysql://root:abcABC123.@localhost/ctf?charset=utf8",
+    "db": "mysql://root:123456@localhost/ctf?charset=utf8",
     
     "language_file": "lang.json",
     "language": "chinese",
